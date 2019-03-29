@@ -1,0 +1,67 @@
+<resources>
+
+    <string name="app_name">AndroidEasyQuizMinSdk16</string>
+
+    <string name="question_0">Какая страна вошла в священный союз (1815 г.) помимо России и Австрии?</string>
+    <string name="question_0_AnswerVar1">Пруссия</string>
+    <string name="question_0_AnswerVar2">Франция</string>
+
+    <string name="question_1">Как Николай I называл Наполеона III?</string>
+    <string name="question_1_AnswerVar1">Брат</string>
+    <string name="question_1_AnswerVar2">Друг</string>
+
+    <string name="question_2">Какой император назначил Горчакова А.М. министром иностранных дел?</string>
+    <string name="question_2_AnswerVar1">Александр II</string>
+    <string name="question_2_AnswerVar2">Николай I</string>
+
+    <string name="question_3">Соученик будущего министра иностранных дел (1856—1882 гг.) Горчакова А.М.</string>
+    <string name="question_3_AnswerVar1">Лермонтов М.Ю.</string>
+    <string name="question_3_AnswerVar2">Пушкин А.С.</string>
+
+    <string name="question_4">На каком море Россия получила запрет держать флот после завершения крымской войны?</string>
+    <string name="question_4_AnswerVar1">Чёрное</string>
+    <string name="question_4_AnswerVar2">Балтийское</string>
+
+    <string name="question_5">Близость России с какой страной символизировал заложенный в 1897 году в Санкт-Петербурге Троицкий мост?</string>
+    <string name="question_5_AnswerVar1">Сербия</string>
+    <string name="question_5_AnswerVar2">Франция</string>
+
+    <string name="question_6">В аннексию чьих территорий Австро-Венгрией в 1908-1909 гг. Россия не вмешалась?</string>
+    <string name="question_6_AnswerVar1">Турция</string>
+    <string name="question_6_AnswerVar2">Сербия</string>
+
+    <string name="question_7">С какой страной в 1907 г. Россия подписала конвенцию о разделе сфер влияния на востоке?</string>
+    <string name="question_7_AnswerVar1">Франция</string>
+    <string name="question_7_AnswerVar2">Англия</string>
+
+    <string name="question_test">Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test! Long question test!</string>
+    <string name="question_test_AnswerVar1">Var1_test</string>
+    <string name="question_test_AnswerVar2">Var2_test</string>
+
+    <string name="next_button">Далее</string>
+    <string name="end_button">Завершить</string>
+    <string name="restart_button">Ещё раз</string>
+
+    <string name="help_button">Помощь</string>
+    <string name="warning_text">Чтобы увидеть ответ, нажмите на кнопку</string>
+    <string name="show_answer_button">Ответ</string>
+    <string name="activity_finish_button">Назад</string>
+
+    <string name="empty_text"></string>
+
+    <string name="correct_toast">Верно)</string>
+    <string name="correct_toast3">Моё почтение!</string>
+    <string name="correct_toast4">Отлично!</string>
+    <string name="correct_toast5">Точно!</string>
+    <string name="correct_toast6">Снимаю шляпу)</string>
+    <string name="correct_toast7">SUPER!</string>
+    <string name="correct_toast8">Отличные знания!!!</string>
+
+    <string name="incorrect_toast">Неверно!</string>
+    <string name="incorrect_toast3">В этот раз не получилось</string>
+    <string name="incorrect_toast4">В следующий раз получится</string>
+    <string name="incorrect_toast5">Нет</string>
+
+    <string name="correct_percent">% ПРАВИЛЬНЫХ ОТВЕТОВ</string>
+
+</resources>
